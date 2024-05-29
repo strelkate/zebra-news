@@ -4,7 +4,7 @@ import Container from "@/components/Container.vue";</script>
 <template>
   <div class="banner">
     <div class="banner__background">
-      <img src="../../public/banner.png" alt="Banner">
+      <img src="@/../public/banner.png" alt="Banner">
     </div>
     <Container>
       <h1 class="banner__title">Новости</h1>

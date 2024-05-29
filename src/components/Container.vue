@@ -14,6 +14,10 @@
   margin: 0 auto;
   width: 100%;
 
+  @media (max-width: 1760px) {
+    max-width: 1400px;
+  }
+
   @media (max-width: 1440px) {
     max-width: 1140px;
   }

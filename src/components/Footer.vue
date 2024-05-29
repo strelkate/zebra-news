@@ -6,7 +6,7 @@ import Container from "@/components/Container.vue";</script>
     <Container>
       <a href="#" class="footer__logo logo">
         <svg class="logo__icon">
-          <use xlink:href="../../public/sprite.svg#logo"></use>
+          <use xlink:href="/sprite.svg#logo"></use>
         </svg>
         <div class="logo__text">alpha</div>
       </a>
